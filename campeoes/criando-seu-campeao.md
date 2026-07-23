@@ -11,8 +11,7 @@ nav_order: 1
 
 Para criar seu Campeão, siga este guia passo a passo:
 
-1. Escolha seu **nome**
-2. Escolha sua **Ancestralidade**
+2. Escolha sua **Ancestralidade** e seu **nome**
 3. Anote o **Talento** da sua Ancestralidade
 4. Distribua seus valores de **Habilidade**
 5. Calcule seus <span style="color:#ff6b6b">**PONTOS DE VIDA**</span> ❤️ e sua <span style="color:#4fc3f7">**ESTAMINA**</span> 🔷

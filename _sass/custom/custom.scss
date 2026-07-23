@@ -1,0 +1,7 @@
+/* 1. Importando apenas a fonte Lora do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* 2. Aplicando a Lora em absolutamente tudo (Textos, Listas, Títulos e Menu) */
+body, p, li, table, h1, h2, h3, h4, h5, h6, .site-title, .nav-list-link {
+  font-family: 'Lora', serif !important;
+}

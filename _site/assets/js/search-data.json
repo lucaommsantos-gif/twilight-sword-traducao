@@ -1,0 +1,576 @@
+{"0": {
+    "doc": "Ancestralidades",
+    "title": "Ancestralidades",
+    "content": ". ",
+    "url": "/twilight-sword-traducao/campeoes/ancestralidades.html",
+    
+    "relUrl": "/campeoes/ancestralidades.html"
+  },"1": {
+    "doc": "Ancestralidades",
+    "title": "HUMA",
+    "content": ". De todas as ancestralidades que habitam as terras, os humas são considerados os mais adaptáveis e difundidos. Você pode encontrar vilarejos humas em quase todo lugar, dos vales mais verdejantes aos picos nevados mais altos. Alguns humas são baixos, outros são altos, e seus olhos, cabelos e pele podem ter as mais variadas cores. A característica que todos têm em comum é a forma pontiaguda de suas orelhas, que lhes confere uma aparência curiosa e sempre atenta. ▶ NOMES HUMA: Rio, Leen, Milo, Ciri, Arryn, Will, Finn, Terra, Dart, Sora, Ren, Brynn. TALENTO HUMA . VERSATILIDADE: Você pode repetir uma única rolagem de Habilidade que falhou. Você pode usar este talento novamente após um Descanso ou um Descanso Breve. ",
+    "url": "/twilight-sword-traducao/campeoes/ancestralidades.html#huma",
+    
+    "relUrl": "/campeoes/ancestralidades.html#huma"
+  },"2": {
+    "doc": "Ancestralidades",
+    "title": "KEDI",
+    "content": ". Os kedis são facilmente reconhecidos por serem mais baixos do que a maioria das outras ancestralidades e por estarem completamente cobertos de pelo fofo. Com seus grandes olhos brilhantes e orelhas ainda maiores, eles parecem mesmo grandes felinos andando sobre dois pés. Considerados os mais ágeis e velozes de todas as ancestralidades, são acrobatas, dançarinos e ladrões natos. Todos os kedis enxergam no escuro e raramente apreciam ser acariciados por estranhos ou amigos. ▶ NOMES KEDI: Eren, Yaz, Nicco, Iman, Raffa, Shadi, Lulu, Aza, Sole, Bibi, Rami, Saba. TALENTO KEDI . GENTE FELINA: Você possui visão noturna. Graças aos seus reflexos felinos, você ganha +1 em todas as rolagens para esquivar e reduz o dano de queda. ",
+    "url": "/twilight-sword-traducao/campeoes/ancestralidades.html#kedi",
+    
+    "relUrl": "/campeoes/ancestralidades.html#kedi"
+  },"3": {
+    "doc": "Ancestralidades",
+    "title": "PENGU",
+    "content": ". As montanhas mais altas e geladas são o lar dos pengus — uma ancestralidade tão alta, resistente e tenaz que ninguém em sã consciência gostaria de provocá-los. Os pengus são cobertos por uma pele grossa e uma camada ainda mais espessa de penas pretas e brancas que os protegem do frio, tornando-os ainda mais imponentes e intimidadores. A maioria deles valoriza a honra acima de tudo e jamais recua diante de um desafio ou de uma briga. ▶ NOMES PENGU: Skad, Viggo, Halsten, Liv, Tor, Jann, Magni, Ulf, Gudrun, Ivar, Jarven, Björn. TALENTO PENGU . PELE GROSSA: Você ganha +3 ❤️(PONTOS DE VIDA). Suas penas permitem que você suporte FRIO 1. ",
+    "url": "/twilight-sword-traducao/campeoes/ancestralidades.html#pengu",
+    
+    "relUrl": "/campeoes/ancestralidades.html#pengu"
+  },"4": {
+    "doc": "Ancestralidades",
+    "title": "STRIX",
+    "content": ". É difícil descrever um strix, pois eles são extremamente diferentes uns dos outros. Alguns strixen são altos e muito magros, outros são baixos e rechonchudos, e há ainda aqueles tão grandes e corpulentos quanto um pengu. Ainda assim, são facilmente distinguíveis das demais ancestralidades: seus corpos são escuros como a própria escuridão, e seus olhos são grandes e brilhantes como o dorso de um vagalume. Não é segredo que os strixen possuem alguma ligação com a magia arcana e são capazes de acessá-la para conjurar feitiços mesmo sem nenhum treinamento formal. ▶ NOMES STRIX: Pivi, Vervarro, Dende, Zitto, Arcai, Nimora, Barnabas, Rancini, Igo, Xero, Modino, Nesso. TALENTO STRIX . MAGIA INATA: Você conhece 2 feitiços arcanos à sua escolha. Você também possui visão noturna. ",
+    "url": "/twilight-sword-traducao/campeoes/ancestralidades.html#strix",
+    
+    "relUrl": "/campeoes/ancestralidades.html#strix"
+  },"5": {
+    "doc": "Ancestralidades",
+    "title": "TOLUNA",
+    "content": ". Os tolunas são mais altos do que os humas e possuem uma compleição extremamente musculosa. Sua pele costuma ser vermelha, mas pode tender ao roxo ou ao marrom, enquanto seus cabelos são geralmente brancos ou claros. Brotando da testa de um toluna, é possível avistar um ou dois chifres amarelos, que eles gostam de manter afiados e bem polidos. Os tolunas constroem seus vilarejos principalmente próximos ao litoral, mas se adaptam com facilidade a qualquer outra região. ▶ NOMES TOLUNA: Kaya, Mahina, Gaer, Lakka, Kona, Tolani, Wira, Panca, Veru, Remy, Zain, Biru. TALENTO TOLUNA . FORÇA FÍSICA: Você ganha +1 🔷(ESTAMINA). Você aprecia lugares quentes e pode suportar CALOR 1. ",
+    "url": "/twilight-sword-traducao/campeoes/ancestralidades.html#toluna",
+    
+    "relUrl": "/campeoes/ancestralidades.html#toluna"
+  },"6": {
+    "doc": "Ancestralidades",
+    "title": "AURA",
+    "content": ". Facilmente reconhecidos por suas orelhas longas e cabelos claros, os auras são a ancestralidade mais antiga de Radia. Diz-se que descendem diretamente dos Espíritos, dos quais herdaram sua conexão natural com a magia e uma longevidade extraordinária que lhes permite viver por milhares de anos. ▶ NOMES AURA: Yiri, Xion, Junno, Cora, Solen, Hyr, Rune, Devis, Leto, Vyn, Agaris, Ekil. TALENTO AURA . ANTIGO: Aprenda 1 feitiço arcano e 1 bênção à sua escolha. Quando você Descansar, pode remover 2 efeitos de status em vez de 1. ",
+    "url": "/twilight-sword-traducao/campeoes/ancestralidades.html#aura",
+    
+    "relUrl": "/campeoes/ancestralidades.html#aura"
+  },"7": {
+    "doc": "Ancestralidades",
+    "title": "DERO",
+    "content": ". As cavernas mais profundas e as minas subterrâneas de Radia são o lar dos deros — uma ancestralidade trabalhadora que raramente sobe à superfície. Os deros são baixos e atarracados, vivem até três vezes mais do que um huma e possuem a habilidade única de transformar seu corpo em pedra imóvel e indestrutível. Muitos habitantes de Radia nunca viram um dero de verdade, e alguns acreditam que eles não passam de lenda. ▶ NOMES DERO: Rukkar, Tonka, Ghis, Borok, Dalgar, Osko, Proga, Farful, Weero, Uko, Bilsi, Stok. TALENTO DERO . FILHO DA PEDRA: Você possui visão noturna. Uma vez por dia, como ação ou reação, você pode se transformar em pedra. Todo o seu equipamento e itens também se tornam pedra, exceto itens lendários. Enquanto em forma de pedra, você ainda pode ver e ouvir, mas não pode se mover e não sofre dano. O efeito permanece ativo até você decidir encerrá-lo. ",
+    "url": "/twilight-sword-traducao/campeoes/ancestralidades.html#dero",
+    
+    "relUrl": "/campeoes/ancestralidades.html#dero"
+  },"8": {
+    "doc": "Ancestralidades",
+    "title": "GRODA",
+    "content": ". As grodas são um povo-rã de baixa estatura, conhecidas em todas as terras por sua bravura e disciplina. Seria um erro julgá-las pela aparência, pois provaram ser soldados indomáveis durante a guerra contra Vardas. Há cem anos, as grodas viviam em uma bela cidade ao sul de Zavosta, mas desde que seu lar ancestral foi engolido pelo pântano, esse povo se espalhou pelas terras. Hoje, muitas grodas ganham a vida trabalhando como mercenárias. ▶ NOMES GRODA: Ning, Han, Guo, Zhong, Pem, Wo, Dao, Xiao, Sun, Tang, He, Shin. TALENTO GRODA . POVO-RÃ: Você possui visão noturna e pode respirar debaixo d’água. Graças às suas pernas de rã, você tem Vantagem em rolagens de Agilidade para nadar e saltar, e pode saltar até a altura de Perto. ",
+    "url": "/twilight-sword-traducao/campeoes/ancestralidades.html#groda",
+    
+    "relUrl": "/campeoes/ancestralidades.html#groda"
+  },"9": {
+    "doc": "Ancestralidades",
+    "title": "MALLARD",
+    "content": ". Os mallards são um encantador povo-pato oriundo de terras distantes. A maioria chegou a Radia cruzando o Grande Mar ou por meio de magia ancestral, e só deixou sua terra natal para reencontrar algum parente desaparecido ou para ajudar o bom povo em sua luta contra o Flagelo. Conhecidos pelo gênio curto, os mallards estão sempre prontos para um desafio — e quando tomam uma decisão, é muito difícil fazê-los mudar de ideia. TALENTO MALLARD . TEMPERAMENTO: Você tem Vantagem em todas as rolagens para nadar. Uma vez por dia, você pode perder o controle do seu temperamento para ganhar Vantagem em uma rolagem de Habilidade ou para rolar novamente uma rolagem de dano. Após fazer isso, você sofre Confusão. ",
+    "url": "/twilight-sword-traducao/campeoes/ancestralidades.html#mallard",
+    
+    "relUrl": "/campeoes/ancestralidades.html#mallard"
+  },"10": {
+    "doc": "Básicos do Sistema",
+    "title": "Básicos do Jogo",
+    "content": " ",
+    "url": "/twilight-sword-traducao/basicos-do-sistema.html#b%C3%A1sicos-do-jogo",
+    
+    "relUrl": "/basicos-do-sistema.html#básicos-do-jogo"
+  },"11": {
+    "doc": "Básicos do Sistema",
+    "title": "O SISTEMA CAT",
+    "content": "Twilight Sword utiliza um sistema de jogo original chamado CAT (Created at Twilight). Neste jogo, a maioria das ações que possui um resultado incerto ou representa um desafio é resolvida rolando um único dado de 12 lados [D12], com o objetivo de obter um resultado igual ou inferior ao seu valor de Habilidade. O jogo também utiliza dados de 4 lados [D4], 6 lados [D6], 8 lados [D8], 10 lados [D10] e 20 lados [D20]. Quando o jogo pedir para você rolar um D2 ou D3, simplesmente role um D4 ou D6 e divida o resultado por 2 (arredondando para cima). ▶ ALTERANDO O TAMANHO DO DADO: Para aumentar o tamanho de um dado, simplesmente avance para o próximo maior (D2 ▶ D3 ▶ D4 ▶ D6 ▶ D8 ▶ D10 ▶ D12 ▶ D20). Para diminuir o tamanho de um dado, recue para o próximo menor. ",
+    "url": "/twilight-sword-traducao/basicos-do-sistema.html#o-sistema-cat",
+    
+    "relUrl": "/basicos-do-sistema.html#o-sistema-cat"
+  },"12": {
+    "doc": "Básicos do Sistema",
+    "title": "JOGANDO EM RODADAS",
+    "content": "O jogo é conduzido em Rodadas, nas quais cada Campeão usa seu Turno para descrever suas ações. Quando todos jogaram seu Turno, o Mestre narra os resultados das ações e a próxima Rodada tem início. A duração de uma Rodada dentro do jogo não é fixa e pode variar de acordo com a situação: . ▶ RODADAS DE COMBATE: Durante o combate, uma Rodada representa aproximadamente 10 segundos. O Mestre deve utilizar Rodadas de Combate sempre que os Campeões estiverem em uma situação extremamente perigosa ou urgente. ▶ RODADAS PADRÃO: Rodadas Padrão duram até 10 minutos. São ideais para situações de ritmo mais lento, como quando os Campeões estão em interações sociais ou explorando os arredores. ▶ RODADAS ESTENDIDAS: Uma Rodada Estendida representa 1 hora de tempo de jogo ou até mais. Você pode alternar para Rodadas Estendidas durante longas jornadas ou ao realizar tarefas que demandam muito tempo. Como Mestre, você não precisa ser rígido quando se trata de Rodadas — encare-as como uma ferramenta para acompanhar o tempo durante diferentes cenas. ▶ UMA RODADA É UMA RODADA: Alguns efeitos duram um número definido de Rodadas, e isso vale independentemente do tipo de Rodada que você estiver utilizando. Você não deve alternar para Rodadas Estendidas se ainda houver efeitos temporários ativos. ▶ CONTANDO RODADAS: Se um Campeão ou Monstro ativar um efeito com duração expressa em Rodadas (como conjurar uma magia, sofrer um efeito de status ou beber uma poção), cada Rodada é contada a partir do início do efeito até o começo do próximo Turno do ativador. ▶ ATÉ O TEMPO PASSAR: Alguns efeitos e feitiços duram até o tempo passar. Isso significa que permanecem ativos até que a cena mude ou que uma quantidade significativa de tempo tenha se esgotado. ",
+    "url": "/twilight-sword-traducao/basicos-do-sistema.html#jogando-em-rodadas",
+    
+    "relUrl": "/basicos-do-sistema.html#jogando-em-rodadas"
+  },"13": {
+    "doc": "Básicos do Sistema",
+    "title": "FORMA LIVRE",
+    "content": "Na maior parte do tempo, você não precisa acompanhar as Rodadas de forma alguma — basta deixar os Campeões descreverem suas ações livremente. Essa abordagem é ideal quando não há perigo imediato ou nenhuma questão urgente a ser resolvida. ",
+    "url": "/twilight-sword-traducao/basicos-do-sistema.html#forma-livre",
+    
+    "relUrl": "/basicos-do-sistema.html#forma-livre"
+  },"14": {
+    "doc": "Básicos do Sistema",
+    "title": "Básicos do Sistema",
+    "content": " ",
+    "url": "/twilight-sword-traducao/basicos-do-sistema.html",
+    
+    "relUrl": "/basicos-do-sistema.html"
+  },"15": {
+    "doc": "Caminhos (Classes)",
+    "title": "Caminhos",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos.html#caminhos",
+    
+    "relUrl": "/campeoes/caminhos.html#caminhos"
+  },"16": {
+    "doc": "Caminhos (Classes)",
+    "title": "SEU CAMINHO PARA A VITÓRIA",
+    "content": "A escolha mais importante que você faz ao criar seu Campeão é decidir seu Caminho, que representa como você se posiciona contra o mal. Seu Caminho concede acesso a uma lista exclusiva de 8 talentos e determina seu equipamento inicial. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos.html#seu-caminho-para-a-vit%C3%B3ria",
+    
+    "relUrl": "/campeoes/caminhos.html#seu-caminho-para-a-vitória"
+  },"17": {
+    "doc": "Caminhos (Classes)",
+    "title": "TALENTOS",
+    "content": "Talentos são habilidades únicas que moldam você como Campeão. Alguns talentos precisam ser ativados gastando 1 🔷 (ESTAMINA) ou realizando uma ação, enquanto outros oferecem um bônus passivo. Ao criar seu Campeão, você pode escolher 1 talento dentre os oferecidos pelo seu Caminho. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos.html#talentos",
+    
+    "relUrl": "/campeoes/caminhos.html#talentos"
+  },"18": {
+    "doc": "Caminhos (Classes)",
+    "title": "ESCOLHA SEU CAMINHO",
+    "content": "Existem 8 Caminhos: . | LÂMINA: Enfrente Monstros com poderosos ataques corpo a corpo e lidere seus aliados com coragem. | MAGIA: Conjure feitiços poderosos e use sua inteligência afiada para superar qualquer desafio. | LUZ: Canalize o poder da Luz para conjurar bênçãos e curar seus aliados. | SELVAGEM: Ataque Monstros com ataques à distância e encontre o caminho mais seguro pela natureza selvagem. | SOMBRA: Espreite nas sombras e ataque seus oponentes antes mesmo que eles te vejam. | CANÇÃO: Lute com graça e apoie seus aliados com suas canções encantadoras. | MARTELO: Derrube Monstros com a força imparável dos seus músculos e use sua mente perspicaz para reparar e construir qualquer coisa que você precisar. | ESCUDO: Resista a qualquer ataque com a ajuda do seu escudo e proteja os mais fracos com sua coragem inabalável. | . ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos.html#escolha-seu-caminho",
+    
+    "relUrl": "/campeoes/caminhos.html#escolha-seu-caminho"
+  },"19": {
+    "doc": "Caminhos (Classes)",
+    "title": "AVANÇO",
+    "content": "Completando missões e realizando boas ações, você coleta ESPERANÇA e cresce como Campeão, aumentando seus poderes e encontrando novas formas de se posicionar contra o mal. Quando você coleta 4 ESPERANÇA, pode adquirir um talento adicional dentre os oferecidos pelo seu Caminho. Isso é chamado de Avanço. Você pode fazer outro Avanço toda vez que a ESPERANÇA aumentar 4 (em 8, 12, 16, 20, e assim por diante). Não há limite para o número de Avanços que você pode fazer. ▶ UM NOVO CAMINHO: Em vez de adquirir um talento adicional, ao fazer um Avanço você pode decidir seguir um segundo Caminho e escolher um talento da sua lista. Você não recebe equipamento inicial adicional do seu segundo Caminho e não pode escolher um terceiro Caminho. A partir deste momento, sempre que você avançar poderá escolher talentos dentre os oferecidos por ambos os seus Caminhos. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos.html#avan%C3%A7o",
+    
+    "relUrl": "/campeoes/caminhos.html#avanço"
+  },"20": {
+    "doc": "Caminhos (Classes)",
+    "title": "Caminhos (Classes)",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos.html",
+    
+    "relUrl": "/campeoes/caminhos.html"
+  },"21": {
+    "doc": "Campeões",
+    "title": "Campeões",
+    "content": "Vocês são Campeões — um pequeno grupo de indivíduos extraordinários que foram convocados ou escolhidos para derrotar o Flagelo e devolver a esperança às terras. Campeões são mais fortes, mais rápidos e mais determinados do que as pessoas comuns, e todos utilizam suas habilidades para combater Monstros e ajudar quem precisa. Alguns Campeões aparecem como os heróis que são, outros se parecem com moradores comuns das vilas, e há ainda aqueles de aparência mais misteriosa ou até sombria. Mas apesar de suas diferenças, todos os Campeões compartilham um profundo senso de justiça. O coração deles está no lugar certo. Quando o Flagelo traz ruína e desespero às terras, um grupo de valorosos Campeões se levantará, e a batalha final terá início. ",
+    "url": "/twilight-sword-traducao/campeoes.html",
+    
+    "relUrl": "/campeoes.html"
+  },"22": {
+    "doc": "Canção",
+    "title": "Caminho da Canção",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/cancao.html#caminho-da-can%C3%A7%C3%A3o",
+    
+    "relUrl": "/campeoes/caminhos/cancao.html#caminho-da-canção"
+  },"23": {
+    "doc": "Canção",
+    "title": "ARTE E GRAÇA",
+    "content": "Cantores, músicos e poetas — Campeões que seguem o Caminho da Canção sabem como elevar o espírito de seus aliados e como deslumbrar Monstros com suas artes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/cancao.html#arte-e-gra%C3%A7a",
+    
+    "relUrl": "/campeoes/caminhos/cancao.html#arte-e-graça"
+  },"24": {
+    "doc": "Canção",
+    "title": "TALENTOS",
+    "content": "CANÇÃO DE BATALHA: Como uma ação, você pode fazer um teste de Carisma para animar seus amigos. Em um sucesso, todos os aliados Próximos causam +1 de dano até o fim da luta, ou até você cantar outra canção. Para usar este talento você precisa de um instrumento musical equipado e não pode estar sofrendo Silêncio. CANÇÃO DE FOGUEIRA: Durante um Descanso Curto, você pode fazer um teste de Carisma para entreter seus aliados. Em um sucesso, eles podem escolher recuperar 3 ❤️ (Pontos de Vida) ou 1 🔷 (Estamina). Para usar este talento você precisa de um instrumento musical equipado e não pode estar sofrendo Silêncio. DANÇARINO: Se você não estiver usando armadura além de roupas comuns, você pode tomar 2 reações a cada Rodada, em vez de 1. Você também ganha Vantagem em testes de Agilidade para dançar. CANÇÃO INSPIRADORA: Como uma ação, você pode fazer um teste de Carisma para inspirar um amigo. Em um sucesso, entregue a ele um marcador (como uma moeda ou dado). Sempre que ele falhar em um teste, pode usar o marcador para repetir aquele teste. Para usar este talento você precisa de um instrumento musical equipado e não pode estar sofrendo Silêncio. O marcador retorna a você após um Descanso; você não pode cantar esta canção novamente até ter o marcador de volta. ESPADACHIM: Você causa +1 de dano com armas de finesse. Quando você faz um ataque com uma arma corpo a corpo, um resultado de 2 também é considerado um acerto crítico. LÍNGUA DE PRATA: Você tem Vantagem em testes de Carisma para persuadir, mentir ou barganhar, e pode sempre vender itens por pelo menos 50% do seu valor. TEMPO: Você tem -1 nos testes de iniciativa. No início de uma Rodada, você pode gastar 1 🔷 (Estamina) para ser o primeiro na iniciativa. TREINAMENTO DE CANÇÃO: Aumente seu Carisma, Agilidade ou Conhecimento em 1. Você pode escolher este talento múltiplas vezes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/cancao.html#talentos",
+    
+    "relUrl": "/campeoes/caminhos/cancao.html#talentos"
+  },"25": {
+    "doc": "Canção",
+    "title": "EQUIPAMENTO INICIAL",
+    "content": "Um instrumento musical, um florete velho/espada curta velha e uma estilingue. 3D6 de Zin Verdes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/cancao.html#equipamento-inicial",
+    
+    "relUrl": "/campeoes/caminhos/cancao.html#equipamento-inicial"
+  },"26": {
+    "doc": "Canção",
+    "title": "Canção",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/cancao.html",
+    
+    "relUrl": "/campeoes/caminhos/cancao.html"
+  },"27": {
+    "doc": "Criando seu Campeão",
+    "title": "Criando um Campeão",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/criando-seu-campeao.html#criando-um-campe%C3%A3o",
+    
+    "relUrl": "/campeoes/criando-seu-campeao.html#criando-um-campeão"
+  },"28": {
+    "doc": "Criando seu Campeão",
+    "title": "O HERÓI QUE PRECISAMOS",
+    "content": "Para criar seu Campeão, siga este guia passo a passo: . | Escolha sua Ancestralidade e seu nome | Anote o Talento da sua Ancestralidade | Distribua seus valores de Habilidade | Calcule seus PONTOS DE VIDA ❤️ e sua ESTAMINA 🔷 | Escolha seu Caminho | Escolha um Talento | Anote seu equipamento inicial e sua ARMADURA 🛡️ | Determine aleatoriamente quem recebe a DÁDIVA | Defina a ESPERANÇA como 1 | . Você pode registrar tudo na sua Ficha de Campeão. ",
+    "url": "/twilight-sword-traducao/campeoes/criando-seu-campeao.html#o-her%C3%B3i-que-precisamos",
+    
+    "relUrl": "/campeoes/criando-seu-campeao.html#o-herói-que-precisamos"
+  },"29": {
+    "doc": "Criando seu Campeão",
+    "title": "Criando seu Campeão",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/criando-seu-campeao.html",
+    
+    "relUrl": "/campeoes/criando-seu-campeao.html"
+  },"30": {
+    "doc": "Dádiva",
+    "title": "Dádiva",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/dadiva.html",
+    
+    "relUrl": "/campeoes/dadiva.html"
+  },"31": {
+    "doc": "Dádiva",
+    "title": "USE COM SABEDORIA",
+    "content": "A Dádiva é o mais raro dos recursos e, muitas vezes, pode fazer a diferença entre uma derrota esmagadora e uma vitória gloriosa. Ela representa tanto a determinação inabalável de um Campeão quanto o favor dos Espíritos que velam por eles. Você só pode ter 1 Dádiva e pode usá-la para: . | ▽ OBTER UM SUCESSO CRÍTICO, mesmo que já tenha falhado no teste. | ▽ SALVAR UM CAMPEÃO que está prestes a cair em K.O. (incluindo você mesmo). Esse Campeão não sofre o K.O. e recupera 1D12 ❤️ (Pontos de Vida). | ▽ RECUPERAR TODA A SUA ESTAMINA 🔷 (Estamina). | . Quando você usa sua Dádiva, torna-se o protagonista de uma cena épica que destaca seu valor e determinação. Talvez sinta uma nova energia fluindo pelo corpo enquanto se levanta novamente para lutar contra todas as adversidades, ou talvez seja movido pelo sofrimento de seus amigos, desencadeando finalmente a sua fúria justiceira. Pode ser também que os antigos Espíritos ouçam o seu desespero e lhe concedam uma ajuda misteriosa. Tome o tempo que precisar para descrever o que acontece quando usa sua Dádiva e aproveite bem o momento. ▶ APENAS UMA VEZ: Cada Campeão pode usar apenas 1 Dádiva por Sessão, mesmo que ganhe outra durante a mesma. As Dádivas são extremamente raras e devem ser usadas apenas como último recurso. Não há como saber quando, ou mesmo se, você conseguirá outra. ",
+    "url": "/twilight-sword-traducao/campeoes/dadiva.html#use-com-sabedoria",
+    
+    "relUrl": "/campeoes/dadiva.html#use-com-sabedoria"
+  },"32": {
+    "doc": "Dádiva",
+    "title": "A PRIMEIRA DÁDIVA",
+    "content": "Na criação de personagem, o Mestre rola um dado para determinar aleatoriamente um único Campeão que começará o jogo com uma Dádiva. Se houver 5 ou mais Campeões no grupo, o Mestre pode optar por conceder uma Dádiva adicional a um Campeão diferente. ",
+    "url": "/twilight-sword-traducao/campeoes/dadiva.html#a-primeira-d%C3%A1diva",
+    
+    "relUrl": "/campeoes/dadiva.html#a-primeira-dádiva"
+  },"33": {
+    "doc": "Escudo",
+    "title": "Caminho do Escudo",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/escudo.html#caminho-do-escudo",
+    
+    "relUrl": "/campeoes/caminhos/escudo.html#caminho-do-escudo"
+  },"34": {
+    "doc": "Escudo",
+    "title": "CORAGEM E PROTEÇÃO",
+    "content": "O Caminho do Escudo ensina os Campeões a se manterem firmes contra todo inimigo e a proteger aqueles que não conseguem se defender. Aqueles que seguem este Caminho nunca hesitam em se colocar em perigo para proteger seus aliados de todo mal. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/escudo.html#coragem-e-prote%C3%A7%C3%A3o",
+    
+    "relUrl": "/campeoes/caminhos/escudo.html#coragem-e-proteção"
+  },"35": {
+    "doc": "Escudo",
+    "title": "TALENTOS",
+    "content": "DEFESA PERFEITA: Uma vez por Rodada, se você estiver empunhando um escudo, pode aparar sem usar sua reação. RESISTIR: Após falhar em uma aparada, você pode gastar 1 🔷 (Estamina) para evitar todo o dano. SURF NO ESCUDO: Você pode usar seu escudo como uma prancha de surf. Como uma ação, você pode gastar 1 🔷 (Estamina) para surfar em direção a um Monstro Próximo e deixá-lo prostrado. Como parte da mesma ação, você pode realizar um ataque contra aquele Monstro usando seu escudo. Este ataque não pode ser aparado nem esquivado. INABALÁVEL: Você ganha +3 ❤️ (Pontos de Vida). Quando você fica com 0 ❤️ (Pontos de Vida) ou menos, você não sofre um Ferimento. COURAÇADO: Quando você usa armadura média ou pesada, você não pode ser derrubado (prostrado) e não tem a usual Desvantagem nos testes de Furtividade e Agilidade. GUARDA-COSTAS: Você pode gastar 1 🔷 (Estamina) para proteger seus aliados. Até o início do seu próximo turno, sempre que um Monstro mirar um aliado Próximo com um ataque, você pode escolher se tornar o alvo daquele ataque. Você só pode usar este talento empunhando um escudo. GOLPE DE ESCUDO: Após um ataque bem-sucedido com uma arma, você pode imediatamente realizar um segundo ataque contra o mesmo alvo usando um escudo que empunha na outra mão. TREINAMENTO DE ESCUDO: Aumente sua Força, Vontade ou Vitalidade em 1. Você pode escolher este talento múltiplas vezes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/escudo.html#talentos",
+    
+    "relUrl": "/campeoes/caminhos/escudo.html#talentos"
+  },"36": {
+    "doc": "Escudo",
+    "title": "EQUIPAMENTO INICIAL",
+    "content": "Uma arma velha à sua escolha, um escudo velho e armadura de couro. 3D6 de Zin Verdes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/escudo.html#equipamento-inicial",
+    
+    "relUrl": "/campeoes/caminhos/escudo.html#equipamento-inicial"
+  },"37": {
+    "doc": "Escudo",
+    "title": "Escudo",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/escudo.html",
+    
+    "relUrl": "/campeoes/caminhos/escudo.html"
+  },"38": {
+    "doc": "Esperança",
+    "title": "Esperança",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/esperanca.html",
+    
+    "relUrl": "/campeoes/esperanca.html"
+  },"39": {
+    "doc": "Habilidades",
+    "title": "Habilidades",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/habilidades.html",
+    
+    "relUrl": "/campeoes/habilidades.html"
+  },"40": {
+    "doc": "Habilidades",
+    "title": "TIRE O MELHOR DELAS",
+    "content": "Como Campeão, você conta com 8 Habilidades que o ajudarão a superar qualquer desafio ou perigo. Quanto maior o valor de uma Habilidade, mais fácil é para você ter sucesso. | Habilidade | Abrev. | Usos | . | FORÇA | [FOR] | Quebrar, levantar, aparar, usar armas corpo a corpo | . | AGILIDADE | [AGI] | Correr, saltar, escalar, nadar, esquivar de ataques | . | VITALIDADE | [VIT] | Saúde, resistência, resistir a Veneno e Atordoamento | . | PERCEPÇÃO | [PER] | Usar os sentidos, investigar, atirar | . | VONTADE | [VON] | Coragem, determinação, resistir a K.O., conjurar feitiços | . | CONHECIMENTO | [CON] | Saber coisas, inventar, conjurar feitiços | . | CARISMA | [CAR] | Persuadir, mentir, se apresentar, conjurar feitiços | . | FURTIVIDADE | [FUR] | Se esconder, mover-se em silêncio, abrir fechaduras e bater carteiras | . ",
+    "url": "/twilight-sword-traducao/campeoes/habilidades.html#tire-o-melhor-delas",
+    
+    "relUrl": "/campeoes/habilidades.html#tire-o-melhor-delas"
+  },"41": {
+    "doc": "Habilidades",
+    "title": "VALORES DE HABILIDADE",
+    "content": "Seus valores de Habilidade podem variar de 5 a 10. Quanto maior o valor, mais fácil é ter sucesso. ▶ VALORES INICIAIS: Para criar um Campeão bem equilibrado, utilize os seguintes valores iniciais para suas Habilidades: 5, 6, 6, 7, 7, 8, 8, 9. Este método é recomendado para a maioria dos Campeões. ▶ AUMENTANDO HABILIDADES: Você pode aumentar seus valores de Habilidade (até 10) escolhendo talentos de treinamento durante seu Avanço. Um valor de Habilidade 7 é a média e oferece 58% de chance de sucesso. Um valor 5 reduz essa chance para 42%, enquanto um valor 9 a eleva para 75%. ",
+    "url": "/twilight-sword-traducao/campeoes/habilidades.html#valores-de-habilidade",
+    
+    "relUrl": "/campeoes/habilidades.html#valores-de-habilidade"
+  },"42": {
+    "doc": "Habilidades",
+    "title": "PONTOS DE VIDA",
+    "content": "❤️ (PONTOS DE VIDA) representam sua saúde e determinam quanto dano você pode absorver antes de ser derrotado. ▶ MÁXIMO DE PONTOS DE VIDA: Seu máximo de ❤️ (PONTOS DE VIDA) é igual a 10 + seu valor de Vitalidade. Use as caixas em forma de coração na sua Ficha para acompanhar seu máximo e seu valor atual de ❤️ (PONTOS DE VIDA). Você pode obter ❤️ (PONTOS DE VIDA) adicionais (até 35) escolhendo a ancestralidade pengu, certos talentos, ou adquirindo uma Pedra do Coração. ▶ PONTOS DE VIDA TEMPORÁRIOS: Alguns efeitos concedem ❤️ (PONTOS DE VIDA) temporários, que podem ultrapassar seu máximo atual de ❤️ (PONTOS DE VIDA). Uma vez perdidos, ❤️ (PONTOS DE VIDA) temporários não podem ser restaurados. ",
+    "url": "/twilight-sword-traducao/campeoes/habilidades.html#pontos-de-vida",
+    
+    "relUrl": "/campeoes/habilidades.html#pontos-de-vida"
+  },"43": {
+    "doc": "Habilidades",
+    "title": "ESTAMINA",
+    "content": "🔷 (ESTAMINA) é um recurso importante que representa sua determinação e sua capacidade de se superar. Você pode gastar sua 🔷 (ESTAMINA) para: . | Obter Vantagem em uma rolagem de Habilidade | Ativar um talento | Conjurar um feitiço já utilizado | . ▶ MÁXIMO DE ESTAMINA: Sua 🔷 (ESTAMINA) máxima começa em 3. Você pode acompanhar seu máximo e seu valor atual de 🔷 (ESTAMINA) nas caixas em forma de diamante na sua Ficha. Você pode obter 🔷 (ESTAMINA) adicional (até 8) escolhendo a ancestralidade toluna, certos talentos, ou adquirindo uma Pedra de Estamina. ",
+    "url": "/twilight-sword-traducao/campeoes/habilidades.html#estamina",
+    
+    "relUrl": "/campeoes/habilidades.html#estamina"
+  },"44": {
+    "doc": "Habilidades",
+    "title": "ARMADURA",
+    "content": "🛡️ (ARMADURA) permite reduzir o dano recebido em combate. Seu valor de 🛡️ (ARMADURA) depende da armadura que você está usando, e pode ser anotado na caixa em forma de escudo na sua Ficha. ",
+    "url": "/twilight-sword-traducao/campeoes/habilidades.html#armadura",
+    
+    "relUrl": "/campeoes/habilidades.html#armadura"
+  },"45": {
+    "doc": "Introdução",
+    "title": "Introdução",
+    "content": "Bem-vindo ao manual de Twilight Sword! . Aqui você encontrará tudo o que precisa para mergulhar neste universo: as regras do sistema, a ambientação do mundo, a criação de personagens e muito mais. Este material foi pensado tanto para jogadores que estão começando sua primeira aventura quanto para narradores experientes que desejam construir histórias memoráveis. Leia com calma, explore as seções e, acima de tudo, divirta-se. ",
+    "url": "/twilight-sword-traducao/",
+    
+    "relUrl": "/"
+  },"46": {
+    "doc": "Lâmina",
+    "title": "Caminho da Lâmina",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/lamina.html#caminho-da-l%C3%A2mina",
+    
+    "relUrl": "/campeoes/caminhos/lamina.html#caminho-da-lâmina"
+  },"47": {
+    "doc": "Lâmina",
+    "title": "ESPADA E FORÇA",
+    "content": "Campeões que seguem o Caminho da Lâmina são corajosos e fortes, e usam suas armas corpo a corpo para proteger os mais fracos. Eles nunca recuam de uma luta e jamais se rendem. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/lamina.html#espada-e-for%C3%A7a",
+    
+    "relUrl": "/campeoes/caminhos/lamina.html#espada-e-força"
+  },"48": {
+    "doc": "Lâmina",
+    "title": "TALENTOS",
+    "content": "BASTIÃO: Ganhe +3 ❤️ (Pontos de Vida). Uma vez por Rodada, você pode gastar 1 🔷 (Estamina) para aparar sem usar sua reação. CEIFAR: Após derrotar um Monstro com uma arma corpo a corpo, você pode imediatamente atacar outro Monstro com a mesma arma. Se você derrotar esse Monstro também, pode continuar ceifando. CONTRA-ATAQUE: Após uma aparada ou esquiva bem-sucedida, você pode imediatamente realizar um ataque contra a criatura atacante. ATAQUE DUPLO: Quando você ataca com uma arma corpo a corpo, pode gastar 1 🔷 (Estamina) para realizar um segundo ataque com a mesma arma contra o mesmo alvo (uma vez por Turno). ARMA FAVORITA: Escolha uma categoria de arma corpo a corpo (como espadas, machados ou lanças). Você causa +2 de dano com armas que pertencem a essa categoria. Por exemplo, se você escolher espadas, causa +2 de dano com espadas curtas, espadas longas, mandobles, etc. PODEROSO: Ganhe +1 🔷 (Estamina). Você tem Vantagem em todos os testes para intimidar ou resistir à intimidação. ATAQUE GIRATÓRIO: Quando você ataca um Monstro com uma arma corpo a corpo, pode gastar 1 🔷 (Estamina) para causar o mesmo dano a até 2 Monstros Próximos adicionais. Você só pode usar este talento empunhando uma arma de duas mãos ou duas armas de uma mão. TREINAMENTO DE LÂMINA: Aumente sua Força, Vitalidade ou Agilidade em 1. Você pode escolher este talento múltiplas vezes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/lamina.html#talentos",
+    
+    "relUrl": "/campeoes/caminhos/lamina.html#talentos"
+  },"49": {
+    "doc": "Lâmina",
+    "title": "EQUIPAMENTO INICIAL",
+    "content": "2 armas velhas à sua escolha e armadura de couro. 3D6 de Zin Verdes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/lamina.html#equipamento-inicial",
+    
+    "relUrl": "/campeoes/caminhos/lamina.html#equipamento-inicial"
+  },"50": {
+    "doc": "Lâmina",
+    "title": "Lâmina",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/lamina.html",
+    
+    "relUrl": "/campeoes/caminhos/lamina.html"
+  },"51": {
+    "doc": "Luz",
+    "title": "Caminho da Luz",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/luz.html#caminho-da-luz",
+    
+    "relUrl": "/campeoes/caminhos/luz.html#caminho-da-luz"
+  },"52": {
+    "doc": "Luz",
+    "title": "CORAÇÃO E BÊNÇÃOS",
+    "content": "O Caminho da Luz permite que os Campeões curem seus aliados e auxiliem pessoas necessitadas. Aqueles que seguem este Caminho consagram suas vidas à paz e ao altruísmo, sendo às vezes reverenciados como sacerdotes dos Espíritos. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/luz.html#cora%C3%A7%C3%A3o-e-b%C3%AAn%C3%A7%C3%A3os",
+    
+    "relUrl": "/campeoes/caminhos/luz.html#coração-e-bênçãos"
+  },"53": {
+    "doc": "Luz",
+    "title": "TALENTOS",
+    "content": "CURANDEIRO: Aprenda 2 bênçãos. Ao conjurar uma bênção, gaste 1 🔷 (Estamina) para dobrar a cura dessa bênção ou para remover um efeito de estado de um aliado Próximo à sua escolha. LUZ INTERIOR: Aprenda 2 bênçãos. Sempre que você conjurar uma bênção, você e um aliado Próximo à sua escolha recuperam 2 ❤️ (Pontos de Vida). GUARDIÃO DA LUZ: Aprenda 2 bênçãos. Você pode conjurar feitiços usando armadura leve ou média, e/ou escudo. MEDITAÇÃO: Aprenda 2 bênçãos. Uma vez por dia, você pode usar sua ação para meditar ou rezar e recuperar 1 🔷 (Estamina). SACERDOTE: Aprenda 4 bênçãos. Você tem Vantagem em todos os testes de Carisma para fazer amizade ou confortar pessoas e animais. CORAÇÃO PURO: Aprenda 2 bênçãos. Você e todos os aliados Próximos têm Vantagem em todos os testes de Vontade para resistir a Medo e K.O. ESPÍRITO FORTE: Aprenda 2 bênçãos. Ganhe +3 ❤️ (Pontos de Vida). TREINAMENTO DE LUZ: Aprenda 1 bênção. Aumente seu Carisma, Vontade ou Vitalidade em 1. Você pode escolher este talento múltiplas vezes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/luz.html#talentos",
+    
+    "relUrl": "/campeoes/caminhos/luz.html#talentos"
+  },"54": {
+    "doc": "Luz",
+    "title": "EQUIPAMENTO INICIAL",
+    "content": "Um cajado velho e uma poção de vida, ou armadura de couro e uma arma velha. 3D6 de Zin Verdes e 1 Zin Azul. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/luz.html#equipamento-inicial",
+    
+    "relUrl": "/campeoes/caminhos/luz.html#equipamento-inicial"
+  },"55": {
+    "doc": "Luz",
+    "title": "Luz",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/luz.html",
+    
+    "relUrl": "/campeoes/caminhos/luz.html"
+  },"56": {
+    "doc": "Magia",
+    "title": "Caminho da Magia",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/magia.html#caminho-da-magia",
+    
+    "relUrl": "/campeoes/caminhos/magia.html#caminho-da-magia"
+  },"57": {
+    "doc": "Magia",
+    "title": "FEITIÇOS E SABER",
+    "content": "Campeões que seguem o Caminho da Magia preferem a inteligência à força bruta e usam sua perspicácia para superar qualquer desafio. Estudando textos arcanos, aprendem a conjurar poderosos feitiços arcanos para criar ilusões e derrotar seus inimigos. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/magia.html#feiti%C3%A7os-e-saber",
+    
+    "relUrl": "/campeoes/caminhos/magia.html#feitiços-e-saber"
+  },"58": {
+    "doc": "Magia",
+    "title": "TALENTOS",
+    "content": "DESTRUIDOR ARCANO: Aprenda 2 feitiços arcanos. Você pode rerrolar todos os 1s nos testes de dano ao conjurar feitiços. Além disso, quando você usa uma arma mágica, seus projéteis arcanos causam 1D6 de dano, em vez de 1D4. FOCO ARCANO: Aprenda 2 feitiços arcanos. Você pode usar pergaminhos mágicos sem gastar 🔷 (Estamina). Uma vez por dia, você pode conjurar um feitiço de cada um dos seus itens mágicos sem gastar 🔷 (Estamina). CONHECIMENTO ARCANO: Aprenda 4 feitiços arcanos. Você tem Vantagem em todos os testes de Conhecimento para recordar lore. MAGO DE BATALHA: Aprenda 2 feitiços arcanos. Você pode conjurar feitiços usando armadura leve e/ou escudo. FEITIÇO POTENCIALIZADO: Aprenda 2 feitiços arcanos. Ao conjurar um feitiço, você pode gastar 1 🔷 (Estamina) para dobrar seu dano ou duração. Você não pode dobrar a duração de feitiços com duração instantânea ou “até passar”. FEITIÇO PREPARADO: Aprenda 2 feitiços arcanos. Após um Descanso, você pode preparar um dos feitiços que conhece. Na primeira vez que você conjurar seu feitiço preparado durante o dia, ele não é gasto. FEITIÇO RÁPIDO: Aprenda 2 feitiços arcanos. Gaste 1 🔷 (Estamina) para conjurar um feitiço como ação livre. TREINAMENTO DE MAGIA: Aprenda 1 Feitiço Arcano. Aumente seu Conhecimento, Vontade ou Percepção em 1. Você pode escolher este talento múltiplas vezes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/magia.html#talentos",
+    
+    "relUrl": "/campeoes/caminhos/magia.html#talentos"
+  },"59": {
+    "doc": "Magia",
+    "title": "EQUIPAMENTO INICIAL",
+    "content": "Um cajado velho, papel e tinta, e uma poção de estamina. 3D6 de Zin Verdes e 1 Zin Azul. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/magia.html#equipamento-inicial",
+    
+    "relUrl": "/campeoes/caminhos/magia.html#equipamento-inicial"
+  },"60": {
+    "doc": "Magia",
+    "title": "Magia",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/magia.html",
+    
+    "relUrl": "/campeoes/caminhos/magia.html"
+  },"61": {
+    "doc": "Martelo",
+    "title": "Caminho do Martelo",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/martelo.html#caminho-do-martelo",
+    
+    "relUrl": "/campeoes/caminhos/martelo.html#caminho-do-martelo"
+  },"62": {
+    "doc": "Martelo",
+    "title": "DESTRUIÇÃO E REPARO",
+    "content": "Aqueles que seguem o Caminho do Martelo sabem como construir coisas e como destruí-las. Esses Campeões preferem armas grandes e pesadas e podem superar qualquer obstáculo com seu cérebro e sua força bruta. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/martelo.html#destrui%C3%A7%C3%A3o-e-reparo",
+    
+    "relUrl": "/campeoes/caminhos/martelo.html#destruição-e-reparo"
+  },"63": {
+    "doc": "Martelo",
+    "title": "TALENTOS",
+    "content": "PANCADA: Se você abrir mão do seu movimento, o próximo ataque que realizar neste Turno usando uma arma corpo a corpo pesada causa +1D4 de dano. FORÇA BRUTA: Ganhe +3 ❤️ (Pontos de Vida) ou +1 🔷 (Estamina). Você tem Vantagem em todos os testes de Força para erguer, carregar, puxar ou empurrar. FERREIRO: Você tem Vantagem em todos os testes de Conhecimento para construir ou reparar objetos. Uma vez por dia, em uma forja ou fogueira, você pode fazer um teste de Conhecimento para forjar uma arma velha, reparar uma arma danificada, ou afiar uma arma não-lendária. Uma arma afiada causa +1 de dano por 1 dia. LEVANTAMENTO PESADO: Quando você equipa uma arma pesada, ela conta apenas como uma arma equipada (em vez de 2). Você também pode carregar +4 espaços de inventário. ENGENHOSO: Você tem Vantagem em todos os testes para criar ou desmantelar armadilhas. Após falhar em um teste, você pode gastar 1 🔷 (Estamina) para repetir aquele teste usando Conhecimento no lugar da Habilidade regular. ENDURECIDO: Enquanto você não estiver usando armadura média ou pesada, você ganha +1 🛡️. ESMAGADOR: Após um ataque bem-sucedido com uma arma corpo a corpo pesada, você pode gastar 1 🔷 (Estamina) para derrubar seu alvo (prostrado) ou reduzir permanentemente seus ❤️ (Pontos de Vida) em 1. TREINAMENTO DE MARTELO: Aumente sua Força, Vitalidade ou Conhecimento em 1. Você pode escolher este talento múltiplas vezes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/martelo.html#talentos",
+    
+    "relUrl": "/campeoes/caminhos/martelo.html#talentos"
+  },"64": {
+    "doc": "Martelo",
+    "title": "EQUIPAMENTO INICIAL",
+    "content": "Um martelo, uma tocha, um fuzil e uma corda. 3D6 de Zin Verdes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/martelo.html#equipamento-inicial",
+    
+    "relUrl": "/campeoes/caminhos/martelo.html#equipamento-inicial"
+  },"65": {
+    "doc": "Martelo",
+    "title": "Martelo",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/martelo.html",
+    
+    "relUrl": "/campeoes/caminhos/martelo.html"
+  },"66": {
+    "doc": "Premissa",
+    "title": "Twilight Sword",
+    "content": " ",
+    "url": "/twilight-sword-traducao/premissa.html#twilight-sword",
+    
+    "relUrl": "/premissa.html#twilight-sword"
+  },"67": {
+    "doc": "Premissa",
+    "title": "ERGUA-SE, CAMPEÃO!",
+    "content": "Twilight Sword é um jogo de RPG de aventura ambientado em um mundo de fantasia. Uma terra que um dia foi pacífica, mas que agora é ameaçada por um ser maligno conhecido como o Flagelo. Para se opor ao reinado do Flagelo, os jogadores assumem o papel de Campeões — heróis corajosos que partem em uma jornada perigosa para devolver a esperança às terras. ▶ INSPIRAÇÕES: Twilight Sword é inspirado por videogames clássicos como The Legend of Zelda, Dragon Quest, Wonder Boy in Monster Land, Final Fantasy, Ni No Kuni, e pelos filmes de animação do Studio Ghibli. ▶ TRÊS PILARES: Twilight Sword se sustenta em 3 pilares: percorrer o mundo, combater monstros e trazer esperança. ",
+    "url": "/twilight-sword-traducao/premissa.html#ergua-se-campe%C3%A3o",
+    
+    "relUrl": "/premissa.html#ergua-se-campeão"
+  },"68": {
+    "doc": "Premissa",
+    "title": "PERCORRER O MUNDO",
+    "content": "As terras são imensamente vastas e estão à espera de serem descobertas. Colinas que crescem cada vez mais até se tornarem montanhas nevadas, e então descem suavemente para vales sem fim. Nascentes cristalinas que se tornam turbulentas e se transformam em altas cachoeiras, despencando sobre a superfície azulada de lagos silenciosos e rios correntes. Dunas de areia tostadas pelo sol amarelo de um deserto escaldante, e oásis verdes e sombrios onde você pode, enfim, descansar a cabeça após um longo dia. É dever de um Campeão percorrer as terras e buscar aventura em todo lugar que visitar. Não apenas para descobrir novos lugares e explorar marcos perigosos, mas sobretudo para oferecer sua ajuda a quem mais precisa, onde quer que estejam. Viajar desempenha um papel crucial em Twilight Sword, pois os Campeões precisam continuar em movimento para visitar novas regiões e libertá-las do DESESPERO. ",
+    "url": "/twilight-sword-traducao/premissa.html#percorrer-o-mundo",
+    
+    "relUrl": "/premissa.html#percorrer-o-mundo"
+  },"69": {
+    "doc": "Premissa",
+    "title": "COMBATER MONSTROS",
+    "content": "Desde a chegada do Flagelo, um exército de Monstros se espalhou pelas terras, rondando as estradas, devastando fazendas e semeando destruição por onde passa. Esta horda vil está longe de ser comum. São milhares e milhares de criaturas cruéis e lentas de raciocínio, nascidas do mal puro e moldadas em pesadelos vivos pelo poder de seu sombrio senhor. O bom povo das terras jamais teria qualquer chance contra um inimigo tão feroz, e até guardas e nobres cavaleiros fracassam em contê-los. É dever de um Campeão combater os Monstros e restaurar a paz e a tranquilidade aos habitantes das vilas, mas seu inimigo é feroz e imprevisível. Os Campeões precisarão afiar suas espadas, seus feitiços e sua astúcia se quiserem ter alguma chance. ",
+    "url": "/twilight-sword-traducao/premissa.html#combater-monstros",
+    
+    "relUrl": "/premissa.html#combater-monstros"
+  },"70": {
+    "doc": "Premissa",
+    "title": "TRAZER ESPERANÇA",
+    "content": "À medida que a sombra do Flagelo se expande pelas terras, o povo começa a sentir seus corações tomados por uma profunda sensação de desolação, perdendo aos poucos a esperança de um dia se verem livres das ameaças das trevas. Mas na hora mais sombria, um grupo de heróis valorosos se levantou para enfrentar o desafio e tomou para si a missão de derrotar todo o mal. É dever de um Campeão trazer de volta a ESPERANÇA às terras — e até gestos aparentemente insignificantes podem fazer a diferença na batalha contra o Flagelo. Derrotar um Monstro aterrorizante que ameaça uma vila ou ajudar alguém a declarar seu amor são igualmente feitos que podem mudar tudo. A ESPERANÇA é o tema central do jogo, e funciona tanto como uma medida da experiência do Campeão quanto do seu impacto sobre as terras. O destino das terras repousa em suas mãos. ",
+    "url": "/twilight-sword-traducao/premissa.html#trazer-esperan%C3%A7a",
+    
+    "relUrl": "/premissa.html#trazer-esperança"
+  },"71": {
+    "doc": "Premissa",
+    "title": "Premissa",
+    "content": " ",
+    "url": "/twilight-sword-traducao/premissa.html",
+    
+    "relUrl": "/premissa.html"
+  },"72": {
+    "doc": "Selvagem",
+    "title": "Caminho do Selvagem",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/selvagem.html#caminho-do-selvagem",
+    
+    "relUrl": "/campeoes/caminhos/selvagem.html#caminho-do-selvagem"
+  },"73": {
+    "doc": "Selvagem",
+    "title": "ARCO E FLECHAS",
+    "content": "Aqueles que escolhem o Caminho do Selvagem se sentem em casa na natureza, prontos para enfrentar as trilhas mais perigosas. Esses Campeões preferem armas de ataque à distância e estão sempre um passo à frente de seus inimigos. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/selvagem.html#arco-e-flechas",
+    
+    "relUrl": "/campeoes/caminhos/selvagem.html#arco-e-flechas"
+  },"74": {
+    "doc": "Selvagem",
+    "title": "TALENTOS",
+    "content": "MIRA: Você pode usar sua reação para mirar. Você ganha Vantagem no próximo ataque que realizar neste Turno usando uma arma de ataque à distância ou arremessada. AMIGO DOS ANIMAIS: Você tem um pequeno animal ou montaria que cuida de você e o segue por aí. Seu amigo animal pode buscar um item ou fazer uma missão por você, e pode conceder Vantagem em um teste de Habilidade, desde que você explique como ele te ajuda com a tarefa. Você pode usar este talento novamente após um Descanso ou Descanso Curto. TIRO DUPLO: Uma vez por Turno, ao atacar com uma arma de ataque à distância ou arremessada, você pode gastar 1 🔷 (Estamina) para realizar um segundo ataque com uma arma de ataque à distância ou arremessada. CAÇADOR DE MONSTROS: Gaste 1 🔷 (Estamina) para marcar um Monstro. Você ganha +1 em todos os testes de ataque, aparada e esquiva contra aquele Monstro, e causa +1 de dano a ele até o fim da luta. RASTREADOR: Você tem Vantagem em todos os testes de Percepção para rastrear, encontrar uma trilha, seguir rastros e forragear. Você pode carregar +2 espaços de inventário. RESISTENTE: Ganhe +3 ❤️ (Pontos de Vida) ou +1 🔷 (Estamina). Você pode suportar QUENTE 1 e FRIO 1. ATIRADOR DE ELITE: Cause +1 de dano com todas as armas de ataque à distância e arremessadas. Quando você faz um ataque com uma arma de ataque à distância ou arremessada, um resultado de 2 também é considerado um acerto crítico. TREINAMENTO SELVAGEM: Aumente sua Percepção, Agilidade ou Furtividade em 1. Você pode escolher este talento múltiplas vezes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/selvagem.html#talentos",
+    
+    "relUrl": "/campeoes/caminhos/selvagem.html#talentos"
+  },"75": {
+    "doc": "Selvagem",
+    "title": "EQUIPAMENTO INICIAL",
+    "content": "Um arco velho/bumerangue, uma adaga velha/espada curta velha, armadura de couro, 12 flechas e uma tocha. 3D6 de Zin Verdes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/selvagem.html#equipamento-inicial",
+    
+    "relUrl": "/campeoes/caminhos/selvagem.html#equipamento-inicial"
+  },"76": {
+    "doc": "Selvagem",
+    "title": "Selvagem",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/selvagem.html",
+    
+    "relUrl": "/campeoes/caminhos/selvagem.html"
+  },"77": {
+    "doc": "Sombra",
+    "title": "Caminho da Sombra",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/sombra.html#caminho-da-sombra",
+    
+    "relUrl": "/campeoes/caminhos/sombra.html#caminho-da-sombra"
+  },"78": {
+    "doc": "Sombra",
+    "title": "ADAGAS E ASTÚCIA",
+    "content": "Alguns Campeões preferem se mover em silêncio, seguindo o Caminho da Sombra e dependendo do elemento surpresa para derrotar seus inimigos. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/sombra.html#adagas-e-ast%C3%BAcia",
+    
+    "relUrl": "/campeoes/caminhos/sombra.html#adagas-e-astúcia"
+  },"79": {
+    "doc": "Sombra",
+    "title": "TALENTOS",
+    "content": "ACROBATA: Ganhe +1 🔷 (Estamina). Você também ganha Vantagem em todos os testes para escalar, manter o equilíbrio e reduzir dano de queda. EMBOSCADA: Quando você realiza um ataque furtivo, causa +1D6 de dano para cada arma pequena que usar. GOLPE PELAS COSTAS: Gaste 1 🔷 (Estamina) para tentar um ataque furtivo contra um Monstro que está ciente de você. Você deve usar uma arma pequena para atacar. GOLPE ARDILOSO: Você causa +1 de dano com armas pequenas. Além disso, seus acertos críticos com armas pequenas causam dano triplo, em vez de duplo. DUAL WIELDING: Quando você faz um ataque com uma arma, pode imediatamente realizar um segundo ataque contra o mesmo alvo usando uma arma pequena que empunha na outra mão. ROLAGEM: Você pode gastar 1 🔷 (Estamina) para esquivar sem usar sua reação, ou para repetir um teste falho de esquiva para evitar uma armadilha. LADRÃO: Você tem Vantagem em todos os testes para bater carteiras ou evitar armadilhas. Além disso, seus grampos nunca quebram. TREINAMENTO DE SOMBRA: Aumente sua Furtividade, Agilidade ou Percepção em 1. Você pode escolher este talento múltiplas vezes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/sombra.html#talentos",
+    
+    "relUrl": "/campeoes/caminhos/sombra.html#talentos"
+  },"80": {
+    "doc": "Sombra",
+    "title": "EQUIPAMENTO INICIAL",
+    "content": "2 adagas velhas/garras velhas, 2 grampos, uma estilingue e uma corda. 3D6 de Zin Verdes. ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/sombra.html#equipamento-inicial",
+    
+    "relUrl": "/campeoes/caminhos/sombra.html#equipamento-inicial"
+  },"81": {
+    "doc": "Sombra",
+    "title": "Sombra",
+    "content": " ",
+    "url": "/twilight-sword-traducao/campeoes/caminhos/sombra.html",
+    
+    "relUrl": "/campeoes/caminhos/sombra.html"
+  }
+}
