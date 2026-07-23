@@ -55,7 +55,7 @@ A maioria deles valoriza a honra acima de tudo e jamais recua diante de um desaf
 
 ### TALENTO PENGU
 
-<span style="color:#4fc3f7">**PELE GROSSA:**</span> Você ganha +3 ❤️. Suas penas permitem que você **suporte FRIO 1**.
+<span style="color:#4fc3f7">**PELE GROSSA:**</span> Você ganha +3 ❤️(Corações). Suas penas permitem que você **suporte FRIO 1**.
 
 ---
 
@@ -88,7 +88,7 @@ Os tolunas constroem seus vilarejos principalmente próximos ao litoral, mas se 
 
 ### TALENTO TOLUNA
 
-<span style="color:#4fc3f7">**FORÇA FÍSICA:**</span> Você ganha +1 🔷. Você aprecia lugares quentes e pode **suportar CALOR 1**.
+<span style="color:#4fc3f7">**FORÇA FÍSICA:**</span> Você ganha +1 🔷(Stamina). Você aprecia lugares quentes e pode **suportar CALOR 1**.
 
 ---
 
